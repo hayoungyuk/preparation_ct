@@ -1,6 +1,4 @@
-Preparation for Coding Test
-
-since 2023.03.29~
+# Preparation for Coding Test (since 2023.03.29~)
 
 |no|title|desc|lang|date|
 |---|---|---|---|---|
